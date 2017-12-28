@@ -33,7 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="@string/load"
+            android:text="@string/corpus"
             android:textColor="@android:color/holo_red_light"
             android:textSize="8sp" />
 
